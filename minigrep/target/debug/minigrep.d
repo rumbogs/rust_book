@@ -1,0 +1,1 @@
+/Users/bogdanp/Documents/PETPROJ/rust_proj/minigrep/target/debug/minigrep.dSYM: /Users/bogdanp/Documents/PETPROJ/rust_proj/minigrep/src/lib.rs /Users/bogdanp/Documents/PETPROJ/rust_proj/minigrep/src/main.rs
